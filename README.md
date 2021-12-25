@@ -141,6 +141,8 @@ More info [here](https://bitcointalk.org/?topic=102395).
 
 ## Resources
 
+- [Performing Merkle Airdrop](https://steveng.medium.com/performing-merkle-airdrop-like-uniswap-85e43543a592)
+
 - [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 
 - [Bitcoin Talk - Merkle Trees](https://bitcointalk.org/index.php?topic=403231.msg9054025#msg9054025)
